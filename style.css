@@ -1,0 +1,21 @@
+body{
+    background: red;
+}
+h1{
+    font-size: 100px;
+    color: darkblue;
+}
+.one{
+    background: darkblue;
+    border-radius: 50px;
+}
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    transition: .4s;
+
+}
+button:hover{
+    transform: scale(6.1);
+}
